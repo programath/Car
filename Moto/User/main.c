@@ -3,9 +3,9 @@
 #include "stdio.h"
 
 /**
-  * @brief  Ö÷º¯Êı
-  * @param  ÎŞ
-  * @retval ÎŞ
+  * @brief  Ã·Ëœâˆ«Ã˜Â Ë
+  * @param  Å’ï¬
+  * @retval Å’ï¬
   */
 #include "stm32f10x.h"
 #include "moto.h"
@@ -19,7 +19,7 @@
 int main(void)
 {
 	
-	MotoInit();
+	MotoInit();//mada
 	while(1)
 	{
 		
